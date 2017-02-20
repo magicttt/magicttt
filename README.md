@@ -1,0 +1,2 @@
+# magicttt
+magictのレポジトリ
